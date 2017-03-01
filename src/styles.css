@@ -1,0 +1,10 @@
+@import '~@angular/material/core/theming/prebuilt/deeppurple-amber.css';
+@media print 
+  .container {
+    width: auto;
+  }
+.scale {
+  position: fixed;
+  bottom: 30px;
+  right: 30px;
+}

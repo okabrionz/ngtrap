@@ -1,0 +1,6 @@
+.jumbotron {
+    background-image: url(/assets/bg1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: 1rem;
+}
